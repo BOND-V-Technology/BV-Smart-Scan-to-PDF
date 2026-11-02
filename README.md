@@ -25,7 +25,7 @@
   <img src="docs/screenshots/pdf-en.png" width="200" alt="PDF">
 </p>
 
-> **Use at your own risk.** Offline Scan PDF is free software provided "AS IS". Always check scanned documents before relying on them. You accept this when you first start the app. See [LICENSE](LICENSE).
+> **Use entirely at your own risk.** Offline Scan PDF is free software provided "AS IS" without any warranty. To the fullest extent permitted by law, the publisher accepts no liability whatsoever, including for lost data or incorrect scans. Always check scanned documents before relying on them. You accept this when you first start the app. See [LICENSE](LICENSE).
 
 ## Download
 

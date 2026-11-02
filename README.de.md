@@ -25,7 +25,7 @@
   <img src="docs/screenshots/pdf-de.png" width="200" alt="PDF">
 </p>
 
-> **Nutzung auf eigenes Risiko.** Offline Scan PDF ist kostenlose Software und wird „wie besehen“ bereitgestellt. Prüfe gescannte Dokumente immer, bevor du dich auf sie verlässt. Du bestätigst das beim ersten Start. Siehe [LICENSE](LICENSE).
+> **Nutzung vollständig auf eigenes Risiko.** Offline Scan PDF ist kostenlose Software und wird „wie besehen“ ohne jede Gewähr bereitgestellt. Soweit gesetzlich zulässig, übernimmt der Herausgeber keinerlei Haftung, auch nicht für verlorene Daten oder fehlerhafte Scans. Prüfe gescannte Dokumente immer, bevor du dich auf sie verlässt. Du bestätigst das beim ersten Start. Siehe [LICENSE](LICENSE).
 
 ## Download
 
