@@ -39,21 +39,31 @@ ENGLISH
    "Open-source licenses" and in THIRD_PARTY_NOTICES.md. This agreement does
    not restrict any rights granted by those licenses.
 
-5. Use at your own risk
-   The Software is provided free of charge "AS IS", without any warranty of
-   fitness for a particular purpose, freedom from errors or uninterrupted
-   availability. Use of the Software is entirely at your own risk; you are
-   solely responsible for its use and for checking results, in particular
-   scanned documents, before relying on them. Back up important data.
+5. No warranty – use entirely at your own risk
+   The Software is a free gift provided "AS IS" and "AS AVAILABLE", without
+   any warranty or guarantee of any kind, express or implied, in particular
+   none for fitness for a particular purpose, accuracy, completeness or
+   legibility of scans and PDFs, freedom from errors, data security or
+   availability. The entire risk as to the use, quality and results of the
+   Software lies with you. You alone are responsible for checking every
+   result, in particular scanned documents and PDFs, before relying on,
+   sending or archiving them, and for backing up your data.
 
-6. Liability
-   As the Software is provided free of charge, the Licensor is liable only
-   for intent and gross negligence (Sec. 521 German Civil Code, BGB). For
-   defects of title and material defects, the Licensor is liable only if a
-   defect was fraudulently concealed (Sec. 523, 524 BGB). These limitations
-   do not apply to injury to life, body or health, to liability under the
-   German Product Liability Act or where liability is otherwise mandatory by
-   law.
+6. Exclusion of liability
+   To the fullest extent permitted by applicable law, the Licensor is not
+   liable for any damage or loss of any kind arising from or in connection
+   with the Software, its use or the inability to use it, on whatever legal
+   ground. This includes in particular direct, indirect, incidental and
+   consequential damage, loss of data or documents, incorrect, incomplete or
+   illegible scans, missed deadlines, lost profit, business interruption,
+   damage to devices and claims of third parties. The same applies to the
+   Licensor's legal representatives and vicarious agents.
+   Only liability that cannot be excluded by law remains unaffected: for
+   intent and gross negligence (Sec. 521 German Civil Code, BGB), for
+   fraudulently concealed defects (Sec. 523, 524 BGB), for injury to life,
+   body or health, and under the German Product Liability Act.
+   You indemnify the Licensor against all claims of third parties that arise
+   from your use of the Software in breach of this agreement or of the law.
 
 7. Termination
    The license ends automatically if you breach this agreement. You must
@@ -107,22 +117,35 @@ DEUTSCH
    „Open-Source-Lizenzen“ und in THIRD_PARTY_NOTICES.md aufgeführt. Dieser
    Vertrag schränkt keine Rechte aus diesen Lizenzen ein.
 
-5. Nutzung auf eigenes Risiko
-   Die Software wird unentgeltlich „wie besehen“ (AS IS) bereitgestellt,
-   ohne Gewähr für die Eignung für einen bestimmten Zweck, Fehlerfreiheit
-   oder ununterbrochene Verfügbarkeit. Die Nutzung erfolgt vollständig auf
-   eigenes Risiko; die gesamte Verantwortung für die Nutzung und für die
-   Prüfung der Ergebnisse, insbesondere gescannter Dokumente, trägt der
-   Nutzer. Sichern Sie wichtige Daten.
+5. Keine Gewährleistung – Nutzung vollständig auf eigenes Risiko
+   Die Software wird als unentgeltliche Zuwendung „wie besehen“ und „wie
+   verfügbar“ bereitgestellt, ohne jede ausdrückliche oder stillschweigende
+   Gewährleistung oder Garantie, insbesondere ohne Gewähr für die Eignung
+   für einen bestimmten Zweck, die Richtigkeit, Vollständigkeit oder
+   Lesbarkeit von Scans und PDFs, Fehlerfreiheit, Datensicherheit oder
+   Verfügbarkeit. Das gesamte Risiko hinsichtlich Nutzung, Qualität und
+   Ergebnissen der Software tragen Sie. Sie allein sind dafür
+   verantwortlich, jedes Ergebnis, insbesondere gescannte Dokumente und
+   PDFs, vor der Verwendung, dem Versand oder der Archivierung zu prüfen und
+   Ihre Daten zu sichern.
 
-6. Haftung
-   Da die Software unentgeltlich überlassen wird, haftet der Lizenzgeber nur
-   für Vorsatz und grobe Fahrlässigkeit (§ 521 BGB). Für Rechts- und
-   Sachmängel haftet der Lizenzgeber nur, wenn er einen Mangel arglistig
-   verschwiegen hat (§§ 523, 524 BGB). Diese Beschränkungen gelten nicht bei
-   Verletzung von Leben, Körper oder Gesundheit, für die Haftung nach dem
-   Produkthaftungsgesetz sowie soweit eine Haftung sonst gesetzlich
-   zwingend vorgeschrieben ist.
+6. Haftungsausschluss
+   Soweit gesetzlich zulässig, haftet der Lizenzgeber nicht für Schäden oder
+   Verluste jeglicher Art, die aus oder im Zusammenhang mit der Software,
+   ihrer Nutzung oder der Unmöglichkeit ihrer Nutzung entstehen, gleich aus
+   welchem Rechtsgrund. Dies gilt insbesondere für unmittelbare, mittelbare,
+   zufällige und Folgeschäden, den Verlust von Daten oder Dokumenten,
+   fehlerhafte, unvollständige oder unleserliche Scans, versäumte Fristen,
+   entgangenen Gewinn, Betriebsunterbrechungen, Schäden an Geräten sowie
+   Ansprüche Dritter. Dasselbe gilt für gesetzliche Vertreter und
+   Erfüllungsgehilfen des Lizenzgebers.
+   Unberührt bleibt allein die Haftung, die gesetzlich nicht ausgeschlossen
+   werden kann: für Vorsatz und grobe Fahrlässigkeit (§ 521 BGB), für
+   arglistig verschwiegene Mängel (§§ 523, 524 BGB), für die Verletzung von
+   Leben, Körper oder Gesundheit sowie nach dem Produkthaftungsgesetz.
+   Sie stellen den Lizenzgeber von allen Ansprüchen Dritter frei, die aus
+   einer vertrags- oder rechtswidrigen Nutzung der Software durch Sie
+   entstehen.
 
 7. Beendigung
    Das Nutzungsrecht endet automatisch bei einem Verstoß gegen diesen
