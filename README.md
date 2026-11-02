@@ -13,10 +13,8 @@
   <a href="../../releases/latest"><img alt="Download" src="https://img.shields.io/badge/download-latest%20release-2ea44f"></a>
   <img alt="Freeware" src="https://img.shields.io/badge/license-freeware-blue">
   <img alt="Platforms" src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS-informational">
-  <img alt="Languages" src="https://img.shields.io/badge/UI-English%20%7C%20Deutsch-informational">
+  <img alt="Languages" src="https://img.shields.io/badge/UI-multilingual-informational">
 </p>
-
-<p align="center"><a href="README.de.md">🇩🇪 Deutsche Version</a></p>
 
 <p align="center">
   <img src="docs/screenshots/home-en.png" width="200" alt="Home">
@@ -45,11 +43,11 @@ Check the APK download with the `SHA256SUMS` file from the same release: `sha256
 - 🖼️ **Import from the gallery** — turn existing photos into PDFs.
 - 📄 **Sharp PDFs** — full resolution on real A4 pages, ready for Word, Office and print; share with any app.
 - ✏️ **Edit later** — change edges, filters, rotation and pages of saved documents.
-- 🌗 **Light & dark mode**, 🌍 **English & Deutsch** — follows your device, switchable in *Settings*.
+- 🌗 **Light & dark mode**, 🌍 **English, Deutsch, Français, Русский** — follows your device, switchable in *Settings*.
 
-| Startup notice | German interface | Edge editor |
-| --- | --- | --- |
-| ![Startup notice](docs/screenshots/startup-notice-en.png) | ![German](docs/screenshots/scan-result-de.png) | ![Edge editor](docs/screenshots/edge-editor-de.png) |
+| Startup notice | Edge editor |
+| --- | --- |
+| ![Startup notice](docs/screenshots/startup-notice-en.png) | ![Edge editor](docs/screenshots/edge-editor-de.png) |
 
 ## Privacy
 
@@ -57,7 +55,11 @@ Everything happens on your device: photos, scans and PDFs are stored only in the
 
 ## License
 
-**Freeware** — © 2026 s9881. All rights reserved. Free to use privately and commercially under the [license agreement](LICENSE). Modification, decompilation, resale and redistribution under another name are not permitted. The source code is not published.
+**Freeware** — © 2026 s9881. All rights reserved.
+
+Free to use for private and commercial purposes under the [Freeware License Agreement](LICENSE). Selling, redistributing, modifying or decompiling the software is not permitted without written permission. The source code is not published.
+
+The software is provided **"AS IS", without warranty of any kind**. To the maximum extent permitted by applicable law, the author accepts **no liability** for any damage or loss arising from its use. You use it entirely at your own risk.
 
 The app contains open-source components (Flutter, Dart and others). Their licenses are shown in the app under *Settings › Open-Source Licenses* and listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
