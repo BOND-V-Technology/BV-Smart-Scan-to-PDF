@@ -2,7 +2,7 @@
 
 Last updated: 31 October 2026
 
-Offline Scan PDF ("the app") is published by s9881. This policy explains how
+Offline Scan PDF ("the app") is published by v98881. This policy explains how
 the app handles data.
 
 ## Summary
@@ -56,4 +56,4 @@ and on the app's support page.
 
 ## Contact
 
-s9881 – via https://github.com/BOND-V-Technology/BV-Smart-Scan-to-PDF/issues
+v98881 – via https://github.com/BOND-V-Technology/BV-Smart-Scan-to-PDF/issues

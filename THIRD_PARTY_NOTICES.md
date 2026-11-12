@@ -52661,8 +52661,8 @@ SOFTWARE.
 ### assets/branding/app_icon.svg
 
 - Source: Original artwork added specifically for this project in commit f68939fd7f84402e725487265064977c31e161f1; redesigned in this change. No third-party source or image is used.
-- Author: s9881; the rights holder confirms it was created for this app.
-- License: s9881 material under the project LICENSE (LicenseRef-s9881-Freeware).
+- Author: v98881; the rights holder confirms it was created for this app.
+- License: v98881 material under the project LICENSE (LicenseRef-v98881-Freeware).
 - Status: APPROVED
 - Attribution required: false
 - Commercial use allowed: true

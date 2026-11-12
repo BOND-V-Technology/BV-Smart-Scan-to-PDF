@@ -55,7 +55,7 @@ Everything happens on your device: photos, scans and PDFs are stored only in the
 
 ## License
 
-**Freeware** — © 2026 s9881. All rights reserved.
+**Freeware** — © 2026 v98881. All rights reserved.
 
 Free to use for private and commercial purposes under the [Freeware License Agreement](LICENSE). Selling, redistributing, modifying or decompiling the software is not permitted without written permission. The source code is not published.
 
